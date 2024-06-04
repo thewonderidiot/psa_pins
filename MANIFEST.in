@@ -1,0 +1,2 @@
+recursive-include psa_pins/templates *
+recursive-include psa_pins/static *

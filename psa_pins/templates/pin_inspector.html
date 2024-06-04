@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>{{vehicle}} PSA Backplane Viewer</title>
+        <link rel="stylesheet" href="static/pin_inspector.css">
+        <script src="static/pin_inspector.js"></script>
+        <script src="static/svg-pan-zoom.js"></script>
+        <script type="text/javascript">
+            var inspector;
+
+            function setup_header() {
+                inspector = new PinInspector(document.getElementById('header'));
+                let header_zoom = svgPanZoom('#header', {zoomEnabled: true, controlIconsEnabled: true});
+
+                document.getElementById("net_text").addEventListener("keypress", e => {
+                    if (e.key === "Enter") {
+                        e.preventDefault();
+                        e.currentTarget.blur();
+                        inspector.locate_net(e.currentTarget.value);
+                    }
+                });
+            }
+        </script>
+    </head>
+    <body onload="setup_header();">
+        <div class="top_bar">
+            <div class="title">{{vehicle}} PSA Backplane Viewer</div>
+        </div>
+        <div class="contents">
+            <div id="header_display" class="display active">
+                <object id="header" type="image/svg+xml" data="static/psa_header.svg">
+                    Your browser does not support SVG
+                </object>
+            </div>
+            <div class="info_box">
+                <div class="pin_info">
+                    <div class="info_header">
+                        Connector
+                    </div>
+                    <div id="conn_text" class="info_text">
+                        -
+                    </div>
+                </div>
+                <div class="pin_info">
+                    <div class="info_header">
+                        Pin
+                    </div>
+                    <div id="pin_text" class="info_text">
+                        -
+                    </div>
+                </div>
+                <div class="io_info">
+                    <div class="info_header">
+                        I/O Type
+                    </div>
+                    <div class="info_text" id="io_text">
+                        -
+                    </div>
+                </div>
+                <div class="net_info">
+                    <div class="info_header">
+                        Net
+                    </div>
+                    <textarea name="net" id="net_text" class="info_text" autocomplete="off">-</textarea>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

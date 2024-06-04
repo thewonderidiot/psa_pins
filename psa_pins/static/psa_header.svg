@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2240.1999 853.00002"
+   width="2240.2"
+   height="853"
+   version="1.1"
+   id="svg212"
+   sodipodi:docname="psa_header.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview212"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73449628"
+     inkscape:cx="1151.129"
+     inkscape:cy="348.53819"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g204" />
+  <desc
+     id="desc1">psa_header.dxf - scale = 25.400000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs4">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g4"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SECTION_CUTTING_LINE"
+     id="g5"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="DETAIL_VIEW_BORDER"
+     id="g6"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="DETAIL_VIEW_PARENT_BORDER"
+     id="g7"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TEXT"
+     id="g8"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SKETCHED_GEOMETRY"
+     id="g9"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="VIRTUAL_SHARPS"
+     id="g10"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="CENTERLINES"
+     id="g11"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="CENTERMARKS"
+     id="g12"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TABLES"
+     id="g13"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="IMAGES"
+     id="g14"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ANNOTATION_LINES"
+     id="g15"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ANNOTATION_TEXT"
+     id="g16"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SIDE_THREAD_SYMBOLS"
+     id="g17"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SIDE_THREAD_SYMBOLS_HIDDEN"
+     id="g18"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS"
+     id="g19"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS_ON_"
+     id="g20"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS_HID"
+     id="g21"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BLIND_THREAD_SYMBOLS"
+     id="g22"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BLIND_THREAD_SYMBOLS_HIDDE"
+     id="g23"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="EXPLODE_LINES"
+     id="g24"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="HIDDEN_EXPLODE_LINES"
+     id="g25"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BREAK_LINES"
+     id="g26"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_LINES_UP"
+     id="g27"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_LINES_DOWN"
+     id="g28"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_TANGENT_LI"
+     id="g29"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_CUT_LINES"
+     id="g30"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="REGION_ASSOC_POINTS"
+     id="g31"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="PATTERN_CENTERLINES"
+     id="g32"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="HIDDEN"
+     id="g33"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="VISIBLE"
+     id="g34"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="MODELSKETCH_VISIBLE"
+     id="g204"
+     transform="translate(1120.1,-696.02)">
+    <path
+       d="m -1040.0928,720.5197 a 4.4928,4.4928 0 0 1 8.9856,0 4.4928,4.4928 0 0 1 -8.9856,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path36" />
+    <path
+       d="m 837.6672,1524.5197 a 4.4928,4.4928 0 0 1 8.9856,0 4.4928,4.4928 0 0 1 -8.9856,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path37" />
+    <path
+       d="m 891.264,767.3677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path38" />
+    <path
+       d="m -785.328,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path39" />
+    <path
+       d="m -823.728,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path40" />
+    <path
+       d="m -1037.328,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path41" />
+    <path
+       d="m -1104.996,1524.5197 a 9.396,9.396 0 0 1 18.792,0 9.396,9.396 0 0 1 -18.792,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path42" />
+    <path
+       d="m -1105.056,1254.5677 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path43" />
+    <path
+       d="m -1105.056,990.5677 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path44" />
+    <path
+       d="m 385.584,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path47" />
+    <path
+       d="m 676.464,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path48" />
+    <path
+       d="m -22.416,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path51" />
+    <path
+       d="m -1037.328,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path53" />
+    <path
+       d="m -811.536,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path54" />
+    <path
+       d="m -211.728,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path55" />
+    <path
+       d="m -1030.416,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path56" />
+    <path
+       d="m 160.272,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path58" />
+    <path
+       d="m -569.328,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path61" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       d="m -1119.6,1548.52 v -852"
+       id="path62" />
+    <path
+       d="m 508.464,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path63" />
+    <path
+       d="m 337.584,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path67" />
+    <path
+       d="m -715.728,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path68" />
+    <path
+       d="m -778.416,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path69" />
+    <path
+       d="m -173.328,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path72" />
+    <path
+       d="m 304.464,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path74" />
+    <path
+       d="m -643.536,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path76" />
+    <path
+       d="m -715.536,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path79" />
+    <path
+       d="m 49.584,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path80" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       d="M 1119.6,696.52 H -1119.6"
+       id="path81" />
+    <path
+       d="m -739.536,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path82" />
+    <path
+       d="m -166.416,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path83" />
+    <path
+       d="m -994.416,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path84" />
+    <path
+       d="m -7.536,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path89" />
+    <path
+       d="m -331.536,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path92" />
+    <path
+       d="m -682.416,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path93" />
+    <path
+       d="m -19.536,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path95" />
+    <path
+       d="m 112.464,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       d="M 1119.6,1548.52 H -1119.6"
+       id="path99" />
+    <path
+       d="m -298.416,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path102" />
+    <path
+       d="m -103.536,780.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path103" />
+    <path
+       d="m -562.416,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path106" />
+    <path
+       d="m -310.416,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path107" />
+    <path
+       d="m -607.728,1386.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path110" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       d="m 1119.6,1548.52 v -852"
+       id="path111" />
+    <path
+       d="m -211.536,1464.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path113" />
+    <path
+       d="m -677.328,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path118" />
+    <path
+       d="m -355.728,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path119" />
+    <path
+       d="m -317.328,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path120" />
+    <path
+       d="m 4.272,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path121" />
+    <path
+       d="m 42.672,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path122" />
+    <path
+       d="m 292.272,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path123" />
+    <path
+       d="m 330.672,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path124" />
+    <path
+       d="m 496.272,1122.5677 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path125" />
+    <path
+       d="m -727.728,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path126" />
+    <path
+       d="m -1037.328,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path127" />
+    <path
+       d="m -331.728,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path128" />
+    <path
+       d="m -689.328,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path129" />
+    <path
+       d="m -103.728,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path130" />
+    <path
+       d="m -293.328,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path131" />
+    <path
+       d="m 136.272,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path132" />
+    <path
+       d="m -65.328,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path133" />
+    <path
+       d="m 676.272,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path134" />
+    <path
+       d="m 390.672,858.4717 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path135" />
+    <path
+       d="m 72.864,720.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path142" />
+    <path
+       d="m 428.064,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path144" />
+    <path
+       d="m 428.064,720.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path146" />
+    <path
+       d="m 938.544,1200.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path147" />
+    <path
+       d="m 783.264,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path148" />
+    <path
+       d="m 938.544,960.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path149" />
+    <path
+       d="m 950.544,720.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path150" />
+    <path
+       d="m 1076.496,720.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path151" />
+    <path
+       d="m 1088.496,960.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path152" />
+    <path
+       d="m 1088.496,1200.5197 a 6.528,6.528 0 0 1 13.056,0 6.528,6.528 0 0 1 -13.056,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path153" />
+    <path
+       d="m 1095.072,744.5197 a 6,6 0 0 1 12,0 6,6 0 0 1 -12,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path154" />
+    <path
+       d="m 1095.072,1176.5197 a 6,6 0 0 1 12,0 6,6 0 0 1 -12,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path155" />
+    <path
+       d="m -749.856,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path156" />
+    <path
+       d="m -394.656,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path157" />
+    <path
+       d="m 657.792,1254.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path158" />
+    <path
+       d="m -39.456,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path159" />
+    <path
+       d="m 886.944,1254.5677 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path160" />
+    <path
+       d="m 315.744,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path161" />
+    <path
+       d="m -749.856,1524.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path162" />
+    <path
+       d="m 670.944,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path163" />
+    <path
+       d="m -394.656,1524.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path164" />
+    <path
+       d="m 886.944,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path165" />
+    <path
+       d="m -39.456,1524.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path166" />
+    <path
+       d="m -763.008,990.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path167" />
+    <path
+       d="m 315.744,1524.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path168" />
+    <path
+       d="m -407.808,990.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path169" />
+    <path
+       d="m 670.944,1524.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path170" />
+    <path
+       d="m -52.608,990.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path171" />
+    <path
+       d="m 302.592,990.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path172" />
+    <path
+       d="m 657.792,990.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path173" />
+    <path
+       d="m 886.944,990.5677 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path174" />
+    <path
+       d="m -763.008,1254.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path175" />
+    <path
+       d="m -407.808,1254.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path176" />
+    <path
+       d="m -52.608,1254.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path177" />
+    <path
+       d="m 302.592,1254.5677 a 22.608,22.608 0 0 1 45.216,0 22.608,22.608 0 0 1 -45.216,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path178" />
+    <path
+       d="m 887.004,1524.5197 a 9.396,9.396 0 0 1 18.792,0 9.396,9.396 0 0 1 -18.792,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path179" />
+    <path
+       d="m -1100.736,1122.5677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path180" />
+    <path
+       d="m -1100.736,1477.7677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path181" />
+    <path
+       d="m -1100.736,767.3677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path182" />
+    <path
+       d="m -992.736,720.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path183" />
+    <path
+       d="m -282.336,720.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path184" />
+    <path
+       d="m 72.864,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path185" />
+    <path
+       d="m -1105.056,720.5197 a 9.456,9.456 0 0 1 18.912,0 9.456,9.456 0 0 1 -18.912,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path186" />
+    <path
+       d="m -1030.416,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path188" />
+    <path
+       d="m -670.416,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path191" />
+    <path
+       d="m -379.536,1200.5197 a 2.976,2.976 0 0 1 5.952,0 2.976,2.976 0 0 1 -5.952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path193" />
+    <path
+       d="m -992.736,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path195" />
+    <path
+       d="m -637.536,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path197" />
+    <path
+       d="m -637.536,720.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path199" />
+    <path
+       d="m -282.336,1524.5197 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path201" />
+    <path
+       d="m 891.264,1122.5677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path203" />
+    <path
+       d="m 891.264,1477.7677 a 5.136,5.136 0 0 1 10.272,0 5.136,5.136 0 0 1 -10.272,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-dasharray:none"
+       id="path204" />
+    <g
+       id="pins"
+       fill="#fea"
+       stroke="#000"
+       stroke-width="0.442">
+      <circle id="J19_A3" cx="1062.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_A4" cx="1062.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_A5" cx="1062.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_A6" cx="1062.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_A7" cx="1062.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_A8" cx="1062.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_A9" cx="1062.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_A10" cx="1062.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_A11" cx="1062.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_A12" cx="1062.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_A13" cx="1062.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_A14" cx="1062.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_A15" cx="1062.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_A21" cx="1062.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_A22" cx="1062.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_A23" cx="1062.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_A24" cx="1062.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_A25" cx="1062.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_A26" cx="1062.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_A27" cx="1062.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_A28" cx="1062.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_A29" cx="1062.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_A30" cx="1062.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_A31" cx="1062.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_A32" cx="1062.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_A33" cx="1062.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_B1" cx="1050.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_B2" cx="1050.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_B3" cx="1050.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_B4" cx="1050.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_B5" cx="1050.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_B6" cx="1050.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_B7" cx="1050.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_B8" cx="1050.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_B9" cx="1050.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_B10" cx="1050.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_B11" cx="1050.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_B12" cx="1050.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_B13" cx="1050.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_B14" cx="1050.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_B15" cx="1050.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_B16" cx="1050.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_B17" cx="1050.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_B18" cx="1050.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_B19" cx="1050.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_B20" cx="1050.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_B21" cx="1050.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_B22" cx="1050.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_B23" cx="1050.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_B24" cx="1050.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_B25" cx="1050.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_B26" cx="1050.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_B27" cx="1050.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_B28" cx="1050.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_B29" cx="1050.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_B30" cx="1050.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_B31" cx="1050.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_B32" cx="1050.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_B33" cx="1050.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_B34" cx="1050.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_B35" cx="1050.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_C1" cx="1038.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_C2" cx="1038.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_C3" cx="1038.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_C4" cx="1038.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_C5" cx="1038.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_C6" cx="1038.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_C7" cx="1038.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_C8" cx="1038.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_C9" cx="1038.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_C10" cx="1038.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_C11" cx="1038.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_C12" cx="1038.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_C13" cx="1038.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_C14" cx="1038.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_C15" cx="1038.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_C16" cx="1038.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_C17" cx="1038.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_C18" cx="1038.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_C19" cx="1038.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_C20" cx="1038.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_C21" cx="1038.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_C22" cx="1038.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_C23" cx="1038.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_C24" cx="1038.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_C25" cx="1038.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_C26" cx="1038.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_C27" cx="1038.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_C28" cx="1038.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_C29" cx="1038.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_C30" cx="1038.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_C31" cx="1038.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_C32" cx="1038.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_C33" cx="1038.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_C34" cx="1038.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_C35" cx="1038.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_D1" cx="1026.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_D2" cx="1026.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_D3" cx="1026.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_D4" cx="1026.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_D5" cx="1026.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_D6" cx="1026.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_D7" cx="1026.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_D8" cx="1026.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_D9" cx="1026.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_D10" cx="1026.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_D11" cx="1026.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_D12" cx="1026.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_D13" cx="1026.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_D14" cx="1026.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_D15" cx="1026.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_D16" cx="1026.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_D17" cx="1026.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_D18" cx="1026.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_D19" cx="1026.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_D20" cx="1026.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_D21" cx="1026.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_D22" cx="1026.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_D23" cx="1026.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_D24" cx="1026.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_D25" cx="1026.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_D26" cx="1026.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_D27" cx="1026.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_D28" cx="1026.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_D29" cx="1026.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_D30" cx="1026.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_D31" cx="1026.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_D32" cx="1026.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_D33" cx="1026.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_D34" cx="1026.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_D35" cx="1026.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_F1" cx="1014.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_F2" cx="1014.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_F3" cx="1014.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_F4" cx="1014.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_F5" cx="1014.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_F6" cx="1014.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_F7" cx="1014.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_F8" cx="1014.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_F9" cx="1014.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_F10" cx="1014.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_F11" cx="1014.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_F12" cx="1014.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_F13" cx="1014.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_F14" cx="1014.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_F15" cx="1014.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_F16" cx="1014.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_F17" cx="1014.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_F18" cx="1014.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_F19" cx="1014.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_F20" cx="1014.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_F21" cx="1014.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_F22" cx="1014.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_F23" cx="1014.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_F24" cx="1014.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_F25" cx="1014.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_F26" cx="1014.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_F27" cx="1014.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_F28" cx="1014.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_F29" cx="1014.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_F30" cx="1014.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_F31" cx="1014.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_F32" cx="1014.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_F33" cx="1014.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_F34" cx="1014.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_F35" cx="1014.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_G1" cx="1002.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_G2" cx="1002.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_G3" cx="1002.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_G4" cx="1002.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_G5" cx="1002.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_G6" cx="1002.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_G7" cx="1002.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_G8" cx="1002.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_G9" cx="1002.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_G10" cx="1002.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_G11" cx="1002.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_G12" cx="1002.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_G13" cx="1002.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_G14" cx="1002.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_G15" cx="1002.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_G16" cx="1002.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_G17" cx="1002.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_G18" cx="1002.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_G19" cx="1002.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_G20" cx="1002.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_G21" cx="1002.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_G22" cx="1002.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_G23" cx="1002.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_G24" cx="1002.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_G25" cx="1002.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_G26" cx="1002.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_G27" cx="1002.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_G28" cx="1002.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_G29" cx="1002.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_G30" cx="1002.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_G31" cx="1002.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_G32" cx="1002.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_G33" cx="1002.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_G34" cx="1002.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_G35" cx="1002.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_H1" cx="990.0000" cy="756.5197" r="3.8980" />
+      <circle id="J19_H2" cx="990.0000" cy="768.5197" r="3.8980" />
+      <circle id="J19_H3" cx="990.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_H4" cx="990.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_H5" cx="990.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_H6" cx="990.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_H7" cx="990.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_H8" cx="990.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_H9" cx="990.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_H10" cx="990.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_H11" cx="990.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_H12" cx="990.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_H13" cx="990.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_H14" cx="990.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_H15" cx="990.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_H16" cx="990.0000" cy="936.5197" r="3.8980" />
+      <circle id="J19_H17" cx="990.0000" cy="948.5197" r="3.8980" />
+      <circle id="J19_H18" cx="990.0000" cy="960.5197" r="3.8980" />
+      <circle id="J19_H19" cx="990.0000" cy="972.5197" r="3.8980" />
+      <circle id="J19_H20" cx="990.0000" cy="984.5197" r="3.8980" />
+      <circle id="J19_H21" cx="990.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_H22" cx="990.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_H23" cx="990.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_H24" cx="990.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_H25" cx="990.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_H26" cx="990.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_H27" cx="990.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_H28" cx="990.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_H29" cx="990.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_H30" cx="990.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_H31" cx="990.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_H32" cx="990.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_H33" cx="990.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J19_H34" cx="990.0000" cy="1152.5197" r="3.8980" />
+      <circle id="J19_H35" cx="990.0000" cy="1164.5197" r="3.8980" />
+      <circle id="J19_K3" cx="978.0000" cy="780.5197" r="3.8980" />
+      <circle id="J19_K4" cx="978.0000" cy="792.5197" r="3.8980" />
+      <circle id="J19_K5" cx="978.0000" cy="804.5197" r="3.8980" />
+      <circle id="J19_K6" cx="978.0000" cy="816.5197" r="3.8980" />
+      <circle id="J19_K7" cx="978.0000" cy="828.5197" r="3.8980" />
+      <circle id="J19_K8" cx="978.0000" cy="840.5197" r="3.8980" />
+      <circle id="J19_K9" cx="978.0000" cy="852.5197" r="3.8980" />
+      <circle id="J19_K10" cx="978.0000" cy="864.5197" r="3.8980" />
+      <circle id="J19_K11" cx="978.0000" cy="876.5197" r="3.8980" />
+      <circle id="J19_K12" cx="978.0000" cy="888.5197" r="3.8980" />
+      <circle id="J19_K13" cx="978.0000" cy="900.5197" r="3.8980" />
+      <circle id="J19_K14" cx="978.0000" cy="912.5197" r="3.8980" />
+      <circle id="J19_K15" cx="978.0000" cy="924.5197" r="3.8980" />
+      <circle id="J19_K21" cx="978.0000" cy="996.5197" r="3.8980" />
+      <circle id="J19_K22" cx="978.0000" cy="1008.5197" r="3.8980" />
+      <circle id="J19_K23" cx="978.0000" cy="1020.5197" r="3.8980" />
+      <circle id="J19_K24" cx="978.0000" cy="1032.5197" r="3.8980" />
+      <circle id="J19_K25" cx="978.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J19_K26" cx="978.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J19_K27" cx="978.0000" cy="1068.5197" r="3.8980" />
+      <circle id="J19_K28" cx="978.0000" cy="1080.5197" r="3.8980" />
+      <circle id="J19_K29" cx="978.0000" cy="1092.5197" r="3.8980" />
+      <circle id="J19_K30" cx="978.0000" cy="1104.5197" r="3.8980" />
+      <circle id="J19_K31" cx="978.0000" cy="1116.5197" r="3.8980" />
+      <circle id="J19_K32" cx="978.0000" cy="1128.5197" r="3.8980" />
+      <circle id="J19_K33" cx="978.0000" cy="1140.5197" r="3.8980" />
+      <circle id="J5_1" cx="666.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_2" cx="654.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_3" cx="642.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_4" cx="630.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_5" cx="618.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_6" cx="606.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_7" cx="594.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_8" cx="582.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_9" cx="570.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_10" cx="558.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_11" cx="546.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_12" cx="534.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_13" cx="522.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_14" cx="510.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_15" cx="498.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_16" cx="486.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_17" cx="474.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_18" cx="462.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_19" cx="450.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_20" cx="438.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_21" cx="426.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_22" cx="414.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_23" cx="402.0000" cy="780.5197" r="3.8980" />
+      <circle id="J5_24" cx="678.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_25" cx="666.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_26" cx="654.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_27" cx="642.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_28" cx="630.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_29" cx="618.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_30" cx="606.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_31" cx="594.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_32" cx="582.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_33" cx="570.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_34" cx="558.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_35" cx="546.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_36" cx="534.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_37" cx="522.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_38" cx="510.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_39" cx="498.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_40" cx="486.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_41" cx="474.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_42" cx="462.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_43" cx="450.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_44" cx="438.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_45" cx="426.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_46" cx="414.0000" cy="936.5197" r="3.8980" />
+      <circle id="J5_47" cx="402.0000" cy="936.5197" r="3.8980" />
+      <circle id="J9_1" cx="102.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_2" cx="90.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_3" cx="78.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_4" cx="66.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_5" cx="54.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_6" cx="42.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_7" cx="30.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_8" cx="18.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_9" cx="6.0000" cy="780.5197" r="3.8980" />
+      <circle id="J9_10" cx="-6.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_1" cx="-114.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_2" cx="-126.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_3" cx="-138.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_4" cx="-150.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_5" cx="-162.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_6" cx="-174.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_7" cx="-186.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_8" cx="-198.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_9" cx="-210.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_10" cx="-222.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_11" cx="-234.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_12" cx="-246.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_13" cx="-258.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_14" cx="-270.0000" cy="780.5197" r="3.8980" />
+      <circle id="J3_15" cx="-282.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_1" cx="-342.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_2" cx="-354.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_3" cx="-366.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_4" cx="-378.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_5" cx="-390.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_6" cx="-402.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_7" cx="-414.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_8" cx="-426.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_9" cx="-438.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_10" cx="-450.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_11" cx="-462.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_12" cx="-474.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_13" cx="-618.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_14" cx="-630.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_15" cx="-642.0000" cy="780.5197" r="3.8980" />
+      <circle id="J2_16" cx="-654.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_1" cx="-738.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_2" cx="-750.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_3" cx="-762.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_4" cx="-774.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_5" cx="-786.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_6" cx="-798.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_7" cx="-894.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_8" cx="-906.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_9" cx="-918.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_10" cx="-930.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_11" cx="-942.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_12" cx="-954.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_13" cx="-966.0000" cy="780.5197" r="3.8980" />
+      <circle id="J1_14" cx="-978.0000" cy="780.5197" r="3.8980" />
+      <circle id="J17_1" cx="354.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_2" cx="366.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_3" cx="378.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_4" cx="390.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_5" cx="402.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_6" cx="414.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_7" cx="426.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_8" cx="438.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_9" cx="450.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_10" cx="462.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_11" cx="474.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_12" cx="486.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_13" cx="498.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J17_14" cx="354.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_15" cx="366.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_16" cx="378.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_17" cx="390.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_18" cx="402.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_19" cx="414.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_20" cx="426.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_21" cx="438.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_22" cx="450.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_23" cx="462.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_24" cx="474.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_25" cx="486.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J17_26" cx="498.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_1" cx="66.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_2" cx="78.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_3" cx="90.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_4" cx="102.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_5" cx="114.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_6" cx="126.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_7" cx="138.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_8" cx="150.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_9" cx="162.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_10" cx="174.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_11" cx="186.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_12" cx="198.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_13" cx="210.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_14" cx="222.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_15" cx="234.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_16" cx="246.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_17" cx="258.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_18" cx="270.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_19" cx="282.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_20" cx="294.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J10_21" cx="60.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_22" cx="72.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_23" cx="84.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_24" cx="96.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_25" cx="108.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_26" cx="240.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_27" cx="252.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_28" cx="264.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_29" cx="276.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_30" cx="288.0000" cy="1056.5197" r="3.8980" />
+      <circle id="J10_31" cx="54.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_32" cx="66.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_33" cx="78.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_34" cx="90.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_35" cx="102.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_36" cx="114.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_37" cx="126.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_38" cx="138.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_39" cx="150.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_40" cx="162.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_41" cx="174.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_42" cx="186.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_43" cx="198.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_44" cx="210.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_45" cx="222.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_46" cx="234.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_47" cx="246.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_48" cx="258.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_49" cx="270.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_50" cx="282.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J10_51" cx="294.0000" cy="1044.5197" r="3.8980" />
+      <circle id="J8_1" cx="-294.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_2" cx="-282.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_3" cx="-270.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_4" cx="-258.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_5" cx="-246.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_6" cx="-234.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_7" cx="-222.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_8" cx="-210.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_9" cx="-198.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_10" cx="-186.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_11" cx="-174.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_12" cx="-162.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_13" cx="-150.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_14" cx="-138.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_15" cx="-126.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_16" cx="-114.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_17" cx="-102.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_18" cx="-90.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_19" cx="-78.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_20" cx="-66.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_21" cx="-54.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_22" cx="-42.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J8_23" cx="-30.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_1" cx="-654.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_2" cx="-642.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_3" cx="-630.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_4" cx="-618.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_5" cx="-606.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_6" cx="-594.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_7" cx="-582.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_8" cx="-570.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_9" cx="-558.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_10" cx="-546.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_11" cx="-534.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_12" cx="-522.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_13" cx="-510.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_14" cx="-498.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_15" cx="-486.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_16" cx="-474.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_17" cx="-462.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_18" cx="-450.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_19" cx="-438.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_20" cx="-426.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_21" cx="-414.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_22" cx="-402.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J7_23" cx="-390.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_1" cx="-1014.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_2" cx="-1002.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_3" cx="-990.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_4" cx="-978.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_5" cx="-966.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_6" cx="-954.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_7" cx="-942.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_8" cx="-930.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_9" cx="-918.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_10" cx="-906.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_11" cx="-894.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_12" cx="-882.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_13" cx="-870.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_14" cx="-858.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_15" cx="-846.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_16" cx="-834.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_17" cx="-822.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_18" cx="-810.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_19" cx="-798.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_20" cx="-786.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_21" cx="-774.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_22" cx="-762.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J6_23" cx="-750.0000" cy="1200.5197" r="3.8980" />
+      <circle id="J14_1" cx="-150.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_2" cx="-138.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_3" cx="-126.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_4" cx="-114.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_5" cx="-102.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_6" cx="-90.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_7" cx="-78.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_8" cx="-66.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_9" cx="-54.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_10" cx="-42.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_11" cx="-30.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J14_12" cx="-18.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_1" cx="-546.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_2" cx="-534.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_3" cx="-522.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_4" cx="-510.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_5" cx="-498.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_6" cx="-486.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_7" cx="-474.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_8" cx="-462.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_9" cx="-450.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_10" cx="-438.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_11" cx="-426.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_12" cx="-414.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_13" cx="-270.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_14" cx="-258.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_15" cx="-246.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J13_16" cx="-234.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_1" cx="-762.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_2" cx="-750.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_3" cx="-738.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_4" cx="-726.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_5" cx="-714.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_6" cx="-702.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_7" cx="-690.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_8" cx="-678.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_9" cx="-666.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J12_10" cx="-654.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_1" cx="-1014.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_2" cx="-1002.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_3" cx="-990.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_4" cx="-978.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_5" cx="-966.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_6" cx="-954.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_7" cx="-942.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_8" cx="-930.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_9" cx="-918.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_10" cx="-906.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_11" cx="-894.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_12" cx="-882.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_13" cx="-870.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_14" cx="-858.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_15" cx="-846.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_16" cx="-834.0000" cy="1464.5197" r="3.8980" />
+      <circle id="J11_17" cx="-822.0000" cy="1464.5197" r="3.8980" />
+      <circle id="E5_1" cx="174.0000" cy="1260.5197" r="3.8980" />
+      <circle id="E5_2" cx="174.0000" cy="1248.5197" r="3.8980" />
+      <circle id="E5_3" cx="174.0000" cy="1236.5197" r="3.8980" />
+      <circle id="E5_4" cx="174.0000" cy="1224.5197" r="3.8980" />
+      <circle id="E6_1" cx="198.0000" cy="1260.5197" r="3.8980" />
+      <circle id="E6_2" cx="198.0000" cy="1248.5197" r="3.8980" />
+      <circle id="E6_3" cx="198.0000" cy="1236.5197" r="3.8980" />
+      <circle id="E6_4" cx="198.0000" cy="1224.5197" r="3.8980" />
+      <circle id="E7_1" cx="198.0000" cy="1020.5197" r="3.8980" />
+      <circle id="E7_2" cx="198.0000" cy="1008.5197" r="3.8980" />
+      <circle id="E7_3" cx="198.0000" cy="996.5197" r="3.8980" />
+      <circle id="E7_4" cx="198.0000" cy="984.5197" r="3.8980" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="MODELSKETCH_POINT"
+     id="g205"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="MODELSKETCH_CONSTRUCTION"
+     id="g206"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="HIDDEN_BASE_VIEW"
+     id="g207"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TANGENT_LINES"
+     id="g208"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TANGENT_HIDDEN"
+     id="g209"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="INVISIBLE_LINES"
+     id="g210"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="VIEW_HATCHES"
+     id="g211"
+     transform="translate(1120.1,-696.02)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SECTION_JOG_LINES"
+     id="g212"
+     transform="translate(1120.1,-696.02)" />
+</svg>
